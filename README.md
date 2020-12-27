@@ -1,4 +1,4 @@
-### Hi, I'm Anderson Silva
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
 
 <!--
 **AndersonHqds/AndersonHqds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

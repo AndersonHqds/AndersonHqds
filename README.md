@@ -6,8 +6,9 @@
 [![Twitter: AndersonHqds](https://img.shields.io/twitter/follow/AndersonHqds?style=social)](https://twitter.com/AndersonHqds)
 [![Linkedin: andersonsilva](https://img.shields.io/badge/-andersonsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)
 [![GitHub AndersonSilva](https://img.shields.io/github/followers/andersonhqds?label=follow&style=social)](https://github.com/AndersonHqds)
+[![Stackoverflow Thaiane](https://img.shields.io/badge/-andersonhqds-grey?style=flat-square&logo=StackOverflow&logoColor=yellow&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://pt.stackoverflow.com/users/68563/anderson-henrique)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Anderson = {
@@ -18,6 +19,18 @@ const Anderson = {
   communities: ["Hackthebox", "StackOverflow"],
 }
 ```
+
+#### 🌱 Things I am currently working on: 
+- Finish my unfinished courses
+- Improve my low level skills
+- Learn more about security
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Exercising 3 days a week
+
+![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=AndersonHqds&hide=contribs,prs&count_private=true&show_icons=true)
+
 <!--
 **AndersonHqds/AndersonHqds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

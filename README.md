@@ -1,5 +1,6 @@
 <h2> Hi, I'm Anderson Silva! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
-<p><em>System Analyst at <a href="http://www.fatec.edu.br/">Faculdade de tecnologia de Americana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Staff Software Engineer at <a href="ifood.com.br">Ifood</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<p><em>System Analyst at <a href="http://www.fatec.edu.br/">Faculdade de tecnologia de Americana</a>
+</br>Staff Software Engineer at <a href="ifood.com.br">Ifood</a><iframe src="https://giphy.com/embed/YRsgRsRSqyjCLhWTRM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/iFood-ifood-babu-paizao-YRsgRsRSqyjCLhWTRM">via GIPHY</a></p></br>
 Website on <a href="https://andersonhqds.github.io/anderson-dev">Github Profile</a><img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="30">
 </em></p>
 
@@ -15,10 +16,7 @@ Website on <a href="https://andersonhqds.github.io/anderson-dev">Github Profile<
 [![Stackoverflow AndersonSilva](https://img.shields.io/badge/-andersonhqds-grey?style=for-the-badge&logo=StackOverflow&logoColor=yellow&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://pt.stackoverflow.com/users/68563/anderson-henrique)
 [![Profile AndersonSilva](https://img.shields.io/badge/-Website-white?style=for-the-badge&logo=Brave&logoColor=orange&link=https://andersonhqds.github.io/anderson-dev/)](https://andersonhqds.github.io/anderson-dev/)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif" width="50">
-  <span>A little more about me...  </span>
-</div>
+### A little more about me...
 
 ```javascript
 const Anderson = {

@@ -15,7 +15,7 @@ Website on <a href="https://andersonhqds.github.io/anderson-dev">Github Profile<
 [![Stackoverflow AndersonSilva](https://img.shields.io/badge/-andersonhqds-grey?style=for-the-badge&logo=StackOverflow&logoColor=yellow&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://pt.stackoverflow.com/users/68563/anderson-henrique)
 [![Profile AndersonSilva](https://img.shields.io/badge/-Website-white?style=for-the-badge&logo=Brave&logoColor=orange&link=https://andersonhqds.github.io/anderson-dev/)](https://andersonhqds.github.io/anderson-dev/)
 
-<div>
+<div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif" width="50">
   <span>A little more about me...  </span>
 </div>

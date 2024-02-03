@@ -9,11 +9,11 @@ Website on <a href="https://andersonhqds.github.io/anderson-dev">Github Profile<
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonhqds/andersonhqds/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Twitter: AndersonHqds](https://img.shields.io/twitter/follow/AndersonHqds?style=social)](https://twitter.com/AndersonHqds)
-[![Linkedin: andersonsilva](https://img.shields.io/badge/-andersonsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)
-[![GitHub AndersonSilva](https://img.shields.io/github/followers/andersonhqds?label=follow&style=social)](https://github.com/AndersonHqds)
-[![Stackoverflow AndersonSilva](https://img.shields.io/badge/-andersonhqds-grey?style=flat-square&logo=StackOverflow&logoColor=yellow&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://pt.stackoverflow.com/users/68563/anderson-henrique)
-[![Profile AndersonSilva](https://img.shields.io/badge/-Website-white?style=flat-square&logo=Brave&logoColor=orange&link=https://andersonhqds.github.io/anderson-dev/)](https://andersonhqds.github.io/anderson-dev/)
+[![Twitter: AndersonHqds](https://img.shields.io/twitter/follow/AndersonHqds?style=for-the-badge)](https://twitter.com/AndersonHqds)
+[![Linkedin: andersonsilva](https://img.shields.io/badge/-andersonsilva-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)
+[![GitHub AndersonSilva](https://img.shields.io/github/followers/andersonhqds?label=follow&style=for-the-badge)](https://github.com/AndersonHqds)
+[![Stackoverflow AndersonSilva](https://img.shields.io/badge/-andersonhqds-grey?style=for-the-badge&logo=StackOverflow&logoColor=yellow&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://pt.stackoverflow.com/users/68563/anderson-henrique)
+[![Profile AndersonSilva](https://img.shields.io/badge/-Website-white?style=for-the-badge&logo=Brave&logoColor=orange&link=https://andersonhqds.github.io/anderson-dev/)](https://andersonhqds.github.io/anderson-dev/)
 
 ### <img src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif" width="50"> A little more about me...  
 

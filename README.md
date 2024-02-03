@@ -2,11 +2,13 @@
 <p><em>System Analyst at <a href="http://www.fatec.edu.br/">Faculdade de tecnologia de Americana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Staff Software Engineer at <a href="ifood.com.br">Ifood</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 Website on <a href="https://andersonhqds.github.io/anderson-dev">Github Profile</a><img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="30">
 </em></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonhqds/andersonhqds/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonhqds/andersonhqds/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andersonhqds/andersonhqds/output/github-contribution-grid-snake.svg">
 </picture>
+
 [![Twitter: AndersonHqds](https://img.shields.io/twitter/follow/AndersonHqds?style=social)](https://twitter.com/AndersonHqds)
 [![Linkedin: andersonsilva](https://img.shields.io/badge/-andersonsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)](https://www.linkedin.com/in/anderson-henrique-de-sa-silva/)
 [![GitHub AndersonSilva](https://img.shields.io/github/followers/andersonhqds?label=follow&style=social)](https://github.com/AndersonHqds)

@@ -1,7 +1,7 @@
 <h2> Hi, I'm Anderson Silva! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
 <p><em>Technologist in System Analysis at <a href="http://www.fatec.edu.br/">Faculdade de tecnologia de Americana</a>
 </br>Staff Software Engineer at <a href="ifood.com.br">Ifood</a><br><img src="https://media.giphy.com/media/YRsgRsRSqyjCLhWTRM/giphy.gif" width="150"></br>
-Website on <a href="https://andersonhqds.github.io/anderson-dev">Github Profile</a><img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="30">
+Website on <a href="https://andersonhqds.github.io/anderson-dev">Github Profile</a>
 </em></p>
 
 <picture>
